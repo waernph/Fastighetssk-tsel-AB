@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fastighetsskötsel AB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42298a41c0e83c9c8f9b7c0f9c2b9770d7a987e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fastighetsskötsel AB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fastighetsskötsel AB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
